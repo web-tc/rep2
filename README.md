@@ -1,4 +1,4 @@
-## Welcome to Rep2
+## Welcome to {{site.title}}
 
 ## Welcome to GitHub Pages
 
